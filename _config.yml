@@ -1,0 +1,44 @@
+lang: en-GB # Site language
+title: "Rainpelt29" # Site name; SEO
+description: "Rainpelt29's Official Site." # Site description; SEO
+author: "Ethan Facione" # For SEO
+favicon: "/assets/logo.svg" # Add a favicon.
+
+navigation: # Control the Navigation Bar
+  - title: About 
+    url: "#about"
+  - title: Projects
+    url: "#projects"
+  - title: Contact
+    url: "#contact"
+
+webSource: "https://github.com/doamatto/rainpelt-site" # Contribution Link
+copyrightName: [ "Ethan Facione" ] # Text for after copyright
+copyrightYear: [] # Overwrite the updating year counter
+footerLinks: # Control the Footer Links
+  - title: Imprint.
+    url: "/imprint"
+  - title: Privacy Policy.
+    url: "/privacy"
+
+# Don't edit below this line
+
+exclude:
+  - README.md
+  - LICENSE
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - nano.gemspec
+  - .jekyll-cache
+
+plugins:
+  - jekyll
+  - jekyll-sass-converter
+  - jekyll-sitemap
+  
+sass:
+  style: compressed
+  sass_dir: _sass
+
+permalink: pretty
