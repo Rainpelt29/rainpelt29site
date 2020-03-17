@@ -29,13 +29,13 @@ My fan Minecraft server featuring semi-anarchy survival, creative mode, minigame
 
 Group channel featuring funny gaming and IRL videos from me and my friends.
 
-**Projects and Ideas Possibly Coming Soon**
+**Projects and Ideas Possibly Coming Soon:**
 - Glitch Games
 - Strike Studio Services
 - Hidden Forest VFX Studio
 
 # Contact
-You can reach out to me via:
+You can reach out to me via for any inquires and also can request my resume:
 - **Discord:** Rainpelt29#4856
 - **Email:** [rainpelt29@gmail.com](mailto:rainpelt29@gmail.com)
 - **GitHub:** [@rainpelt29](https://github.com/rainpelt29)
