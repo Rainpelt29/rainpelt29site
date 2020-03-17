@@ -4,11 +4,10 @@ title: Home
 ---
 
 # Newsroom
-- **Raincraft Season 4 Released.**
-Raincraft studios just released the latest season of Raincraft with new game modes and worlds to explore! 
-- **Raincraft Thing**
-- **Strike Media Thing**
-- **Lol another thing**
+- [**Raincraft Season 4 Released.**]()
+- [**Strike Media Rebrand Delayed**](https://www.youtube.com/watch?v=_Ap1jG611Ho)
+- [**Hidden Forest Production's Summer in the Woods Teaser Released**](#projects)
+
 
 
 # About
