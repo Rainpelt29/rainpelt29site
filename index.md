@@ -18,14 +18,15 @@ I have skills in areas of **script writing, graphic design, video editing, busin
 Outside of doing lots of work, I do enjoy lots of memes and video games with a healthy dose of cooking, reading, watching tv, and dare I say a little art?
 
 # Projects
-(embed hidden forest trailer?)
+- [Summer in the Woods ]()
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Qc9Eov5PDWI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 **Some other big projects are:**
 - [Raincraft]()
 - [Strike Media]()
 
 # Contact
 You can reach out to me via:
-- **Discord:** lol#1234
-- **Email:** [lol@doamatto.xyz](mailto:lol@doamatto.xyz)
-- **GitHub:** [@lol](https://github.com/doamatto)
-- **Minecraft:** lolMCPEFEBEDBROCKpikachuslayer69420xX__Xx
+- **Discord:** Rainpelt29#4856
+- **Email:** [rainpelt29@gmail.com](mailto:rainpelt29@gmail.com)
+- **GitHub:** [@rainpelt29](https://github.com/rainpelt29)
+- **Minecraft:** Rainpelt29
