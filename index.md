@@ -4,7 +4,8 @@ title: Home
 ---
 
 # Newsroom
-- **Hidden Forest Thing**
+- **Raincraft Season 4 Released.**
+Raincraft studios just released the latest season of Raincraft with new game modes and worlds to explore! 
 - **Raincraft Thing**
 - **Strike Media Thing**
 - **Lol another thing**
@@ -22,7 +23,9 @@ Outside of doing lots of work, I do enjoy lots of memes and video games with a h
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Qc9Eov5PDWI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 **Some other big projects are:**
 - [Raincraft]()
-- [Strike Media]()
+My fan Minecraft server featuring semi-anarchy survival, creative mode, minigames, events, and more!
+- [Strike Media](https://www.youtube.com/channel/UCajfyJoQ3zdjslYb6EOTVIQ)
+Group channel featuring funny gaming and IRL videos from me and my friends.
 
 # Contact
 You can reach out to me via:
