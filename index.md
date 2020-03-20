@@ -3,6 +3,9 @@ layout: page
 title: Home
 ---
 
+# Editing And Design
+Looking for my video editing or graphic design services? [Click Here!] (https://rainpelt29.github.io/rainpelt29site/editing/)
+
 # Newsroom
 - [**Raincraft Season 4 Released.**]()
 - [**Strike Media Rebrand Delayed**](https://www.youtube.com/watch?v=_Ap1jG611Ho)
