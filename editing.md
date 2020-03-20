@@ -4,8 +4,8 @@ title: Editing
 ---
 
 # Editing
-- [Video Editing Examples](#Graphic Design)
-- Graphic Design and Thumbnail Examples
+- [Video Editing Examples](##Video Editing)
+- [Graphic Design and Thumbnail Examples](##Graphic Design)
 
 ## Graphic Design
 
