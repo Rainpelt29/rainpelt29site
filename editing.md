@@ -4,6 +4,12 @@ title: Editing
 ---
 
 # Editing
+- [Video Editing Examples](#Graphic Design)
+- Graphic Design and Thumbnail Examples
+
+## Graphic Design
+
+## Video Editing
 Here are some examples of videos I have edited in the past. I am also open to always editing new types of videos. Just let me know!
 **Contact me by email at rainpelt29@gmail.com or DM me on twitter [@rainpelt29](https://twitter.com/rainpelt29) for editing inquires.**
 
