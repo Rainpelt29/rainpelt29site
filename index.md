@@ -3,14 +3,12 @@ layout: page
 title: Home
 ---
 
-# Editing And Design
-Looking for my video editing or graphic design services? [Click Here!] (https://rainpelt29.github.io/rainpelt29site/editing/)
+
 
 # Newsroom
 - [**Raincraft Season 4 Released.**]()
 - [**Strike Media Rebrand Delayed**](https://www.youtube.com/watch?v=_Ap1jG611Ho)
 - [**Hidden Forest Production's Summer in the Woods Teaser Released**](#projects)
-
 
 
 # About
@@ -19,6 +17,9 @@ Based in Michigan, I’m an *almost* highschooler with a creative and ever-worki
 I have skills in areas of **script writing, graphic design, video editing, business management,** as well as am learning and improving my skills in **3D animation** and **VFX**. [You can look at my current projects here.](#projects)
 
 Outside of doing lots of work, I do enjoy lots of memes and video games with a healthy dose of cooking, reading, watching tv, and dare I say a little art?
+
+# Editing And Design
+Looking for my video editing or graphic design services? [Click Here!] (https://rainpelt29.github.io/rainpelt29site/editing/)
 
 # Projects
 - [Summer in the Woods]()
