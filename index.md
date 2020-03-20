@@ -19,7 +19,7 @@ I have skills in areas of **script writing, graphic design, video editing, busin
 Outside of doing lots of work, I do enjoy lots of memes and video games with a healthy dose of cooking, reading, watching tv, and dare I say a little art?
 
 # Editing And Design
-Looking for my video editing or graphic design services? [Click Here!](https://rainpelt29.github.io/rainpelt29site/editing/)
+Looking for my video editing or graphic design services? [**Click Here!**](https://rainpelt29.github.io/rainpelt29site/editing/)
 
 # Projects
 - [Summer in the Woods]()
