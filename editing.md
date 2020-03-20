@@ -3,13 +3,13 @@ layout: page
 title: Editing
 ---
 
-# Editing
-- [Video Editing Examples](##Video Editing)
-- [Graphic Design and Thumbnail Examples](##Graphic Design)
+# Services
+- [Video Editing Examples](#Video Editing)
+- [Graphic Design and Thumbnail Examples](#Graphic Design)
 
-## Graphic Design
-
-## Video Editing
+# Graphic Design
+<iframe src="https://rainpelt29.myportfolio.com/design"></iframe>
+# Video Editing
 Here are some examples of videos I have edited in the past. I am also open to always editing new types of videos. Just let me know!
 **Contact me by email at rainpelt29@gmail.com or DM me on twitter [@rainpelt29](https://twitter.com/rainpelt29) for editing inquires.**
 
