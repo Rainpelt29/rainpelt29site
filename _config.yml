@@ -10,7 +10,7 @@ navigation: # Control the Navigation Bar
   - title: Projects
     url: "#projects"
   - title: Services
-    url: "editing"
+    url: "/editing"
   - title: Contact
     url: "#contact"
 
