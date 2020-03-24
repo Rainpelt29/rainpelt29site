@@ -8,7 +8,19 @@ title: Editing
 - [Graphic Design and Thumbnail Examples](#Graphic Design)
 
 # Graphic Design
-<iframe src="https://rainpelt29.myportfolio.com/design" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="600px" width="800px" allowfullscreen></iframe>
+![design/alinity.png](design/alinity.png)
+![design/thomas.png](design/thomas.png)
+![design/crappydesign.png](design/crappydesign.png)
+![design/fortnite0.png](design/fortnite0.png)
+![design/discord.png](design/discord.png)
+![design/fortnite1.png](design/fortnite1.png)
+![design/fortnite2.png](design/fortnite2.png)
+![design/ninja.png](design/ninja.png)
+![design/linus.png](design/linus.png)
+![design/fortnite3.png](design/fortnite3.png)
+![design/ww3.png](design/ww3.png)
+![design/strike_logo.png](design/strike_logo.png)
+![design/strike_wordmark.png](design/strike_wordmark.png)
 
 # Video Editing
 Here are some examples of videos I have edited in the past. I am also open to always editing new types of videos. Just let me know!
