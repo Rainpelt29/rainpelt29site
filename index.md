@@ -33,4 +33,4 @@ Looking for my video editing or graphic design services? [**Click Here!**](https
 You can reach out to me via for any inquires and also can request my resume:
 - **Discord:** Rainpelt29#4856
 - **Email:** [rainpelt29 \[at\] gmail.com](mailto:rainpelt29@gmail.com)
-- **GitHub:** [@rainpelt29](https://github.com/rainpelt29
+- **GitHub:** [@rainpelt29](https://github.com/rainpelt29)
