@@ -4,8 +4,8 @@ title: Editing
 ---
 
 # Services
-- [Video Editing Examples](#Video Editing)
-- [Graphic Design and Thumbnail Examples](#Graphic Design)
+- [Graphic Design and Thumbnail Examples](#graphic-design)
+- [Video Editing Examples](#video-editing)
 
 # Graphic Design
 ![design/alinity.png](design/alinity.png)
