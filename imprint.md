@@ -5,7 +5,7 @@ title: Imprint
 
 # Imprint
 
- - Email: **rainpelt29@gmail.com**
+ - Email: **rainpelt29 [at] gmail.com**
  - Phone: +1 810-522-2901
  - **Note:** The phone number above is not for support.
  - Please contact Hidden Forest Productions, Strike Media, or Raincraft through their respective contact info.
