@@ -9,10 +9,10 @@ navigation: # Control the Navigation Bar
     url: "#about"
   - title: Projects
     url: "#projects"
-  - title: Contact
-    url: "#contact"
   - title: Services
     url: "https://rainpelt29.github.io/rainpelt29site/editing/"
+  - title: Contact
+    url: "#contact"
 
 webSource: "https://github.com/doamatto/rainpelt-site" # Contribution Link
 copyrightName: [ "Ethan Facione" ] # Text for after copyright
