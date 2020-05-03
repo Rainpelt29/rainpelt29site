@@ -1,3 +1,5 @@
+remote_theme: doamatto/mallow-theme@v0.1.0
+
 lang: en-GB # Site language
 title: "Rainpelt29" # Site name; SEO
 description: "The Official site of Rainpelt29 and their projects." # Site description; SEO
